@@ -7,3 +7,7 @@
 - [Architecture](/architecture.md)
 
 - [Tools](/tools.md)
+
+- [Security](/security.md) 
+
+- [Best Practices](bestpractices.md)
