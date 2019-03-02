@@ -1,3 +1,3 @@
 # About AWS Architectures
 
-Go back to [Table of Contents](/README.md)
+Back to [Table of Contents](/README.md)
