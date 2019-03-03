@@ -1,4 +1,4 @@
-# Links of Articals, Tutorials and Tools Relating to AWS
+# Articals, Tutorials and Tools Relating to AWS
 
 
 
